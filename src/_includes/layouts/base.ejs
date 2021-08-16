@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+      <script src="//unpkg.com/alpinejs" defer></script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
@@ -61,39 +62,81 @@
     </script>
     <% } %>
   </head>
-
-  <body class="antialiased w-full text-gray-700">
-    <div class="max-w-screen-md mx-auto">
-      <div class="border-b border-gray-300">
-        <div class="pt-16 pb-8">
-          <h1 class="font-semibold text-3xl text-gray-800"><%= site.title %></h1>
-          <div class="text-xl"><%= site.description %></div>
-        </div>
-        <nav>
-          <ul class="flex flex-wrap text-xl">
-            <li class="mr-6">
-              <a class="text-gray-700 border-none hover:no-underline hover:text-gray-800" href="/"
-                >Home</a
-              >
-            </li>
-            <li class="mr-6">
-              <a
-                class="text-gray-700 border-none hover:no-underline hover:text-gray-800"
-                href="https://github.com/ixartz/Eleventy-Starter-Boilerplate"
-              >
-                GitHub
-              </a>
-            </li>
-          </ul>
-        </nav>
+  <body class="tw-antialiased tw-w-full tw-text-gray-700">
+  <header class="tw-bg-green-700 tw-text-white">
+      <div class="tw-flex tw-justify-between tw-items-end tw-container tw-mx-auto">
+          <a href="/" class="tw-block tw-p-5 md:tw-cursor-pointer">
+              <span class="tw-block tw-text-3xl">Laure Meslé-Yaakoubi</span>
+              <span class="tw-italic">Psychologue à Montpellier</span>
+          </a>
+          <nav>
+              <ul class="tw-flex tw-flex-1 tw-gap-x-4 md:tw-text-xl tw-pb-4">
+                  <li>
+                      <a href="https://montpellier-psychologue.pro/psychotherapie-montpellier.html"
+                         class="tw-block hover:tw-text-green-200"
+                      >
+                          Psychothérapies</a>
+                  </li>
+                  <li>
+                      <a href="https://montpellier-psychologue.pro/psychologue-enfants-montpellier.html"
+                         class="tw-block hover:tw-text-green-200"
+                      >
+                          Enfants</a>
+                  </li>
+                  <li>
+                      <a href="https://montpellier-psychologue.pro/psychologue-adolescents-montpellier.html"
+                         class="tw-block hover:tw-text-green-200"
+                      >
+                          Adolescents</a>
+                  </li>
+                  <li>
+                      <a href="https://montpellier-psychologue.pro/therapie-couple-montpellier.html"
+                         class="tw-block hover:tw-text-green-200"
+                      >
+                          Couples</a>
+                  </li>
+                  <li>
+                      <a href="https://montpellier-psychologue.pro/soutien-parentalite.html"
+                         class="tw-block hover:tw-text-green-200"
+                      >
+                          Parents</a>
+                  </li>
+                  <li>
+                      <a href="https://montpellier-psychologue.pro/analyse-des-pratiques.html"
+                         class="tw-block hover:tw-text-green-200"
+                      >
+                          Analyse des pratiques</a>
+                  </li>
+                  <li>
+                      <a href="https://montpellier-psychologue.pro/bilan-psychologique-montpellier.html"
+                         class="tw-block hover:tw-text-green-200"
+                      >
+                          Bilans</a>
+                  </li>
+                  <li>
+                      <a href="https://montpellier-psychologue.pro/cabinet-psychologie-montpellier.html"
+                         class="tw-block hover:tw-text-green-200"
+                      >
+                          Le cabinet</a>
+                  </li>
+                  <li>
+                      <a href="https://montpellier-psychologue.pro/tarif-psychologue.html"
+                         class="tw-block hover:tw-text-green-200"
+                      >
+                          Tarifs</a>
+                  </li>
+                  <li>
+                      <a href="https://montpellier-psychologue.pro/laure-yaakoubi-psychologue.html"
+                         class="tw-block hover:tw-text-green-200"
+                      >
+                          Qui suis-je ?</a>
+                  </li>
+              </ul>
+          </nav>
       </div>
-
-      <div class="text-xl py-5"><%- content %></div>
-
-      <div class="border-t border-gray-300 text-center py-8">
-        Made with <span role="img" aria-label="Love">♥</span> by
-        <a href="https://creativedesignsguru.com">CreativeDesignsGuru</a>
-      </div>
-    </div>
+  </header>
+  <div class="tw-container tw-mx-auto md:tw-grid md:tw-grid-cols-12 tw-gap-x-5 tw-py-5">
+      <%- content %>
+  </div>
   </body>
 </html>
