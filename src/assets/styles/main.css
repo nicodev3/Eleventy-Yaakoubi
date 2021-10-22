@@ -3,3 +3,97 @@
 @tailwind components;
 
 @tailwind utilities;
+
+.c-wysiwyg p {
+    @apply tw-mb-3;
+}
+
+.c-wysiwyg h2 {
+    @apply tw-text-2xl;
+    @apply tw-mb-5;
+}
+
+.c-wysiwyg ul {
+    @apply tw-pl-10;
+}
+
+.c-wysiwyg li {
+    @apply tw-list-disc;
+}
+
+.c-nav.is-opened {
+    display: block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+    @apply tw-bg-green-700;
+}
+
+.c-the-topbar__hamburger {
+    background-color: transparent;
+    border: 0;
+    color: inherit;
+    cursor: pointer;
+    font: inherit;
+    margin: 0 -15px 0 0;
+    overflow: visible;
+    padding: 14px;
+    text-transform: none;
+    transition-duration: .05s;
+    transition-property: opacity, filter;
+    transition-timing-function: linear;
+}
+
+.c-the-topbar__hamburger-box {
+    display: inline-block;
+    height: 24px;
+    position: relative;
+    width: 35px;
+}
+
+.c-the-topbar__hamburger-inner {
+    display: block;
+    margin-top: -2px;
+    top: 50%;
+}
+
+.c-the-topbar__hamburger--collapse .c-the-topbar__hamburger-inner {
+    bottom: 0;
+    top: auto;
+    transition-delay: .13s;
+    transition-duration: .13s;
+    transition-timing-function: cubic-bezier(.55, .055, .675, .19);
+}
+
+.c-the-topbar__hamburger-inner, .c-the-topbar__hamburger-inner:after, .c-the-topbar__hamburger-inner:before {
+    background-color: #fff;
+    height: 5px;
+    position: absolute;
+    transition-duration: .05s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    width: 34px;
+}
+
+.c-the-topbar__hamburger-inner:before,
+.c-the-topbar__hamburger-inner:after {
+    content: "";
+    display: block;
+}
+
+.c-the-topbar__hamburger-inner:before {
+    top: -10px;
+}
+
+.c-the-topbar__hamburger-inner:after {
+    bottom: -10px;
+}
+
+.c-the-topbar__hamburger-inner.is-theme-ice:before {
+    top: -5px;
+}
+
+.c-the-topbar__hamburger-inner.is-theme-ice:after {
+    bottom: -5px;
+}

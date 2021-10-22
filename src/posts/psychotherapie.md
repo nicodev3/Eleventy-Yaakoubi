@@ -14,7 +14,7 @@ De même, la [thérapie de couple](https://montpellier-psychologue.pro/therapie-
 
 ## Les psychothérapies d'inspiration psychanalytique
 
-Il s'agit d'une forme de <strong>psychothérapie pratiquée par les psychologues</strong>, le plus souvent psychothérapeutes. La  psychothérapie d'inspiration psychanalytique diffère de la cure psychanalytique classique de par l'élargissement de ses indications et la modification de son cadre.
+Il s'agit d'une forme de **psychothérapie pratiquée par les psychologues**, le plus souvent psychothérapeutes. La  psychothérapie d'inspiration psychanalytique diffère de la cure psychanalytique classique de par l'élargissement de ses indications et la modification de son cadre.
 
 Si à l'époque de Freud la psychanalyse s'intéressait surtout aux pathologies névrotiques, les progrès effectués depuis lors montrent que les principaux éléments théoriques issues de cette dernière sont tout à fait applicables aux problématiques modernes.
         
@@ -34,4 +34,3 @@ Le soutien psychologique intervient le plus souvent lorsque des événements de 
 Le rôle du psychologue est de soutenir la personne, en lui permettant de trouver un espace de parole préservé et intime. L'écoute, le soutien actif du thérapeute, permettent de trouver un appui souvent salutaire.
         
 **Le soutien psychologique** diffère de la **psychothérapie d'inspiration psychanalytique** en ce sens qu'il est davantage basé sur l'actualité de la personne, quand bien même nous traversons tous les événements de notre vie en fonction de nos ressources propres, nos failles, nos points de rupture, donc de notre psychisme qui est par essence unique.
- 
