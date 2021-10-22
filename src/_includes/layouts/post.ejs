@@ -7,5 +7,9 @@ layout: layouts/base.ejs
     <h1 class="tw-my-5 tw-font-bold tw-text-3xl tw-text-gray-800"><%= title %></h1>
   </header>
 
-  <section class="content"><%- content %></section>
+  <section class="content md:tw-grid md:tw-grid-cols-12">
+    <div class="tw-col-span-9">
+      <%- content %>
+    </div>
+  </section>
 </article>

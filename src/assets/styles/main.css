@@ -10,6 +10,7 @@
 
 .c-wysiwyg h2 {
     @apply tw-text-2xl;
+    @apply tw-mt-8;
     @apply tw-mb-5;
 }
 
@@ -96,4 +97,25 @@
 
 .c-the-topbar__hamburger-inner.is-theme-ice:after {
     bottom: -5px;
+}
+
+table {
+    @apply tw-table-fixed;
+    @apply tw-border-collapse;
+    @apply tw-border;
+    @apply tw-border-green-700;
+}
+
+table th {
+    @apply tw-uppercase;
+    @apply tw-py-3;
+    @apply tw-bg-yellow-400;
+    @apply tw-text-white;
+    @apply tw-w-1/3;
+}
+
+table td {
+    @apply tw-p-4;
+    @apply tw-border;
+    @apply tw-border-green-700;
 }
