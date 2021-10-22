@@ -1,6 +1,6 @@
 ---
 title: 'Le psychologue pour enfants'
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+description: Le psychologue intervient auprès de l’enfant dans des situations de souffrance diverses. Certains signes doivent alerter les parents. Découvrez lesquels.
 ---
 
 Il n'existe pas à proprement parler de **psychologue pour enfant**. Chaque psychologue possède en revanche une ou des spécialités acquises au cours de sa formation et de son expérience. La psycholgie de l'enfant en fait partie. Quelles sont les difficultés rencontrées spécifiquement par les enfants et quel professionnel consulter ?

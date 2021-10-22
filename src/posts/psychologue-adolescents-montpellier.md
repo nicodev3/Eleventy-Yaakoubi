@@ -1,6 +1,6 @@
 ---
 title: 'Psychologue adolescents'
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+description: La période de l’adolescence et ses troubles. Comment aider son enfant devenu adolescent à surmonter ses difficultés. Par Laure Meslé-Yaakoubi, psychologue.
 ---
 
 L'adolescence est une période de profonds changements physiologiques qui entrainent souvent des remaniements sur le plan psychique, à l'origine de ce qu'on nomme parfois la crise d'adolescence

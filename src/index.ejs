@@ -8,66 +8,27 @@ permalink: '<% if (pagination.pageNumber > 0) { %><%= `page${pagination.pageNumb
 eleventyComputed:
   title: '<% if (pagination.pageNumber > 0) { %><%= `Page ${pagination.pageNumber + 1} | ${site.title}` %><% } else { %><%= site.title %><% } %>'
 ---
-<div class="tw-container tw-mx-auto md:tw-grid md:tw-grid-cols-12 tw-gap-x-5 tw-py-5">
+<div class="tw-container tw-mx-auto md:tw-grid md:tw-grid-cols-12 md:tw-gap-x-10 tw-py-5">
     <section class="md:tw-col-span-9 tw-px-5 md:tw-px-0">
         <h1 class="tw-text-2xl md:tw-text-4xl tw-mb-5">
             Laure Meslé-Yaakoubi, psychologue clinicienne
         </h1>
-        <div class="tw-flex">
+        <div class="tw-flex tw-gap-x-10">
             <div class="tw-flex tw-flex-col tw-gap-y-3">
                 <p>Je reçois en consultation à mon
-                    <a href="/cabinet-psychologie-montpellier.html">cabinet de Montpellier</a>
+                    <a href="/cabinet-psychologie-montpellier.html" class="tw-font-semibold tw-text-accent tw-underline">cabinet de Montpellier</a>
                     les enfants, adolescents et adultes et propose des
-                    <a href="psychotherapie-montpellier.html">psychothérapies</a>
-                    d'inspiration psychanalytique et des psychothérapies de soutien.
+                    <strong><a href="/psychotherapie-montpellier.html" class="tw-text-accent tw-underline">psychothérapies d'inspiration psychanalytique et des psychothérapies de soutien</a></strong>.
                 </p>
                 <p>Je réalise également des
-                    <a href="/bilan-psychologique-montpellier.html">bilans et évaluations psychologiques</a>
+                    <a href="/bilan-psychologique-montpellier.html" class="tw-font-semibold tw-text-accent tw-underline">bilans et évaluations psychologiques</a>
                     .
                 </p>
                 <p>Vous pouvez me contacter pour un premier entretien au cours duquel vous m'exposerez vos difficultés et vos attentes. Je vous proposerai ensuite le travail le mieux adapté à votre situation.</p>
                 <p>Je reçois aussi les couples et les familles.</p>
             </div>
-            <div class="tw-w-56">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 327.4 475.2">
-                    <style>.st1 {
-                            fill: #f1e779
-                        }
-
-                        .st2 {
-                            fill: #a9cd75
-                        }
-
-                        .st3 {
-                            fill: #01956d
-                        }</style>
-                    <path d="M199.4 261.7l8.1 184.7c.6 15.3-11.3 28.2-26.6 28.8H157c-15.3 0-27.7-12.4-27.7-27.7v-1.1l7.1-158.6c-2.6-2.6-53.4-77.4-55.4-80.4-9.3-14.7-3.2-23 8.7-12.5l48.3 46.7c0-45.6 54-43.5 59.2-9.8 32.3-27.9 41.8-38 44.5-32.6 2.8 5.4-5.4 13.4-41.3 60.8-.5.6-.5 1.1-1 1.7z"
-                          fill="#3d626b"/>
-                    <path class="st1"
-                          d="M41.8 101.4C18.7 101.4 0 120.2 0 143.3s18.7 41.8 41.8 41.8 41.8-18.7 41.8-41.8-18.7-41.9-41.8-41.9z"/>
-                    <path class="st2"
-                          d="M77.1 55.4c-33.1 0-33 50 0 50 13.8 0 25-11.1 25-24.9v-.1c-.1-13.8-11.2-24.9-25-25z"/>
-                    <path class="st1"
-                          d="M188 40.6c.1 12.6 10.3 22.7 22.8 22.8 12.7 0 23-10.1 23.4-22.8-1.4-30.5-46.2-29.9-46.2 0z"/>
-                    <path class="st2"
-                          d="M196.6 109.6c-27 0-48.9 21.9-48.9 48.9s21.9 48.9 48.9 48.9 48.9-21.9 48.9-48.9-21.9-48.9-48.9-48.9z"/>
-                    <path class="st3"
-                          d="M53.8 187.3c-26.6 0-26.6 40.2 0 40.2s26.3-40.2 0-40.2zM228.1 66.1c-29.2 0-29.7 44.5 0 44.5s29.3-44.5 0-44.5z"/>
-                    <path class="st1" d="M106.5 147.1c-29.5 0-29.6 44.5 0 44.5s29.3-44.5 0-44.5z"/>
-                    <path class="st3" d="M239.6 226.4c0 21.7 32.6 21.7 32.6 0s-32.6-22-32.6 0z"/>
-                    <path class="st2"
-                          d="M152.1 18.9c0 10.5 8.5 19 19 19s19-8.5 19-19c0-25.6-38-24.8-38 0zm146.7 94.5c0 7.5 6.1 13.6 13.6 13.6s13.6-6.1 13.6-13.6-6.1-13.6-13.6-13.6c-7.6 0-13.6 6.1-13.6 13.6z"/>
-                    <path class="st3"
-                          d="M236.8 42.2c0 7.5 6.1 13.6 13.6 13.6S264 49.7 264 42.2s-6.1-13.6-13.6-13.6-13.6 6.1-13.6 13.6zm74.5 88.6c-21.7 0-21.7 32.6 0 32.6s21.1-32.6 0-32.6z"/>
-                    <path class="st2" d="M115.2 204.1c0 20.8 31.5 20.8 31.5 0s-31.5-20.8-31.5 0z"/>
-                    <path class="st3"
-                          d="M125.5 82.4c-17.1 0-31 13.9-31 31s13.9 31 31 31 31-13.9 31-31c-.1-17.1-13.9-31-31-31z"/>
-                    <path class="st2" d="M273.8 52.5c-27.2 0-27.2 41.3 0 41.3s27.3-41.3 0-41.3z"/>
-                    <circle class="st1" cx="122.2" cy="41.1" r="31.5"/>
-                    <path class="st1" d="M242.8 123.2c0 36.3 54.3 35.6 54.3 0s-54.3-35.6-54.3 0z"/>
-                    <path class="st2" d="M174.4 53.6c-34.5 0-34.4 52.1 0 52.1s34.5-52.1 0-52.1z"/>
-                    <path class="st1" d="M276.5 155.2c-37.5 0-37.5 56.5 0 56.5s38.2-56.5 0-56.5z"/>
-                </svg>
+            <div class="tw-w-56 tw-flex-shrink-0 tw-hidden md:tw-block">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 327.4 475.2"><style>.st1{fill:#f1e779}.st2{fill:#a9cd75}.st3{fill:#01956d}</style><path d="m199.4 261.7 8.1 184.7c.6 15.3-11.3 28.2-26.6 28.8H157c-15.3 0-27.7-12.4-27.7-27.7v-1.1l7.1-158.6c-2.6-2.6-53.4-77.4-55.4-80.4-9.3-14.7-3.2-23 8.7-12.5l48.3 46.7c0-45.6 54-43.5 59.2-9.8 32.3-27.9 41.8-38 44.5-32.6 2.8 5.4-5.4 13.4-41.3 60.8-.5.6-.5 1.1-1 1.7z" fill="#3d626b"/><path class="st1" d="M41.8 101.4C18.7 101.4 0 120.2 0 143.3s18.7 41.8 41.8 41.8 41.8-18.7 41.8-41.8-18.7-41.9-41.8-41.9z"/><path class="st2" d="M77.1 55.4c-33.1 0-33 50 0 50 13.8 0 25-11.1 25-24.9v-.1c-.1-13.8-11.2-24.9-25-25z"/><path class="st1" d="M188 40.6c.1 12.6 10.3 22.7 22.8 22.8 12.7 0 23-10.1 23.4-22.8-1.4-30.5-46.2-29.9-46.2 0z"/><path class="st2" d="M196.6 109.6c-27 0-48.9 21.9-48.9 48.9s21.9 48.9 48.9 48.9 48.9-21.9 48.9-48.9-21.9-48.9-48.9-48.9z"/><path class="st3" d="M53.8 187.3c-26.6 0-26.6 40.2 0 40.2s26.3-40.2 0-40.2zM228.1 66.1c-29.2 0-29.7 44.5 0 44.5s29.3-44.5 0-44.5z"/><path class="st1" d="M106.5 147.1c-29.5 0-29.6 44.5 0 44.5s29.3-44.5 0-44.5z"/><path class="st3" d="M239.6 226.4c0 21.7 32.6 21.7 32.6 0s-32.6-22-32.6 0z"/><path class="st2" d="M152.1 18.9c0 10.5 8.5 19 19 19s19-8.5 19-19c0-25.6-38-24.8-38 0zm146.7 94.5c0 7.5 6.1 13.6 13.6 13.6s13.6-6.1 13.6-13.6-6.1-13.6-13.6-13.6c-7.6 0-13.6 6.1-13.6 13.6z"/><path class="st3" d="M236.8 42.2c0 7.5 6.1 13.6 13.6 13.6S264 49.7 264 42.2s-6.1-13.6-13.6-13.6-13.6 6.1-13.6 13.6zm74.5 88.6c-21.7 0-21.7 32.6 0 32.6s21.1-32.6 0-32.6z"/><path class="st2" d="M115.2 204.1c0 20.8 31.5 20.8 31.5 0s-31.5-20.8-31.5 0z"/><path class="st3" d="M125.5 82.4c-17.1 0-31 13.9-31 31s13.9 31 31 31 31-13.9 31-31c-.1-17.1-13.9-31-31-31z"/><path class="st2" d="M273.8 52.5c-27.2 0-27.2 41.3 0 41.3s27.3-41.3 0-41.3z"/><circle class="st1" cx="122.2" cy="41.1" r="31.5"/><path class="st1" d="M242.8 123.2c0 36.3 54.3 35.6 54.3 0s-54.3-35.6-54.3 0z"/><path class="st2" d="M174.4 53.6c-34.5 0-34.4 52.1 0 52.1s34.5-52.1 0-52.1z"/><path class="st1" d="M276.5 155.2c-37.5 0-37.5 56.5 0 56.5s38.2-56.5 0-56.5z"/></svg>
             </div>
         </div>
         <h2 class="tw-text-3xl tw-mb-5">
@@ -79,8 +40,8 @@ eleventyComputed:
                 <p class="tw-flex-1">
                     Le psychologue pour enfants est un psychologue qui possède une expertise du développement de l'enfant, sur le plan psycho-affectif, de ses relations sociales et de ses rapports à son environnement famillial et scolaire.
                 </p>
-                <a href=""
-                   class="tw-ml-auto tw-inline-block tw-shadow-md tw-py-2 tw-px-3 tw-bg-yellow-500 tw-text-white">
+                <a href="/psychologue-enfants-montpellier/index.html"
+                   class="tw-ml-auto tw-inline-block tw-shadow-md tw-py-2 tw-px-3 tw-bg-accent tw-rounded tw-text-white">
                     Le psychologue et l'enfant
                 </a>
             </div>
@@ -89,8 +50,8 @@ eleventyComputed:
                 <p class="tw-flex-1">
                     L'adolescence est une période faite de changements importants qui entrainent parfois des difficultés dans la vie personnelle, scolaire, familliale et sociale.
                 </p>
-                <a href=""
-                   class="tw-ml-auto tw-inline-block tw-shadow-md tw-py-2 tw-px-3 tw-bg-yellow-500 tw-text-white"
+                <a href="/psychologue-adolescents-montpellier/index.html"
+                   class="tw-ml-auto tw-inline-block tw-shadow-md tw-py-2 tw-px-3 tw-bg-accent tw-rounded tw-text-white"
                 >
                     Le psychologue et l'adolescent
                 </a>
@@ -100,8 +61,8 @@ eleventyComputed:
                 <p class="tw-flex-1">
                     Etre ou devenir parent. La rencontre avec l'enfant est parfois source de questionnements et de difficultés familiales. Le soutien à la parentalité vous aide à accompagner au mieux votre enfant dans son développement.
                 </p>
-                <a href=""
-                   class="tw-ml-auto tw-inline-block tw-shadow-md tw-py-2 tw-px-3 tw-bg-yellow-500 tw-text-white"
+                <a href="/soutien-parentalite/index.html"
+                   class="tw-ml-auto tw-inline-block tw-shadow-md tw-py-2 tw-px-3 tw-bg-accent tw-rounded tw-text-white"
                 >
                     Le soutien à la parentalité
                 </a>
@@ -111,21 +72,21 @@ eleventyComputed:
                 <p class="tw-flex-1">
                     Elle permet la mise en place d'un espace de parole destiné à améliorer la qualité des interventions des équipes dans le milieu professionnel.
                 </p>
-                <a href=""
-                   class="tw-ml-auto tw-inline-block tw-shadow-md tw-py-2 tw-px-3 tw-bg-yellow-500 tw-text-white"
+                <a href="/analyse-des-pratiques/index.html"
+                   class="tw-ml-auto tw-inline-block tw-shadow-md tw-py-2 tw-px-3 tw-bg-accent tw-rounded tw-text-white"
                 >
                     Analyse des pratiques
                 </a>
             </div>
             <div class="tw-flex tw-flex-col tw-gap-y-5 tw-p-5 tw-shadow tw-rounded-md">
-                <h3 class="tw-text-2xl">Psychothérapie adultes</h3>
+                <h3 class="tw-text-2xl">Psychothérapies</h3>
                 <p class="tw-flex-1">
                     Les psychothérapies d'inspiration psychanalytique proposent un cadre différent de la cure psychanalytique classique. Séances moins nombreuses, dispositif en face à face, thérapeute plus actif...
                 </p>
-                <a href=""
-                   class="tw-ml-auto tw-inline-block tw-shadow-md tw-py-2 tw-px-3 tw-bg-yellow-500 tw-text-white"
+                <a href="/analyse-des-pratiques/index.html"
+                   class="tw-ml-auto tw-inline-block tw-shadow-md tw-py-2 tw-px-3 tw-bg-accent tw-rounded tw-text-white"
                 >
-                    Psychothérapie adultes
+                    Psychothérapies
                 </a>
             </div>
             <div class="tw-flex tw-flex-col tw-gap-y-5 tw-p-5 tw-shadow tw-rounded-md">
@@ -133,8 +94,8 @@ eleventyComputed:
                 <p class="tw-flex-1">
                     Le couple humain n'est pas un long fleuve tranquille. Les difficultés conjugales peuvent être améliorées en présence d'un psychologue qui sera à l'écoute du couple et soutiendra celui-ci dans un travail bénéfique pour chacun.
                 </p>
-                <a href=""
-                   class="tw-ml-auto tw-inline-block tw-shadow-md tw-py-2 tw-px-3 tw-bg-yellow-500 tw-text-white"
+                <a href="/therapie-couple-montpellier/index.html"
+                   class="tw-ml-auto tw-inline-block tw-shadow-md tw-py-2 tw-px-3 tw-bg-accent tw-rounded tw-text-white"
                 >
                     La thérapie de couple
                 </a>
@@ -144,8 +105,8 @@ eleventyComputed:
                 <p class="tw-flex-1">
                     Les tests et bilans psychologiques s'appuient sur des modèles scientifiquement validés afin de donner un apperçu de la maturation cognitive et/ou affective du sujet.
                 </p>
-                <a href=""
-                   class="tw-ml-auto tw-inline-block tw-shadow-md tw-py-2 tw-px-3 tw-bg-yellow-500 tw-text-white"
+                <a href="/bilan-psychologique-montpellier/index.html"
+                   class="tw-ml-auto tw-inline-block tw-shadow-md tw-py-2 tw-px-3 tw-bg-accent tw-rounded tw-text-white"
                 >
                     Bilans psychologiques
                 </a>
@@ -154,23 +115,24 @@ eleventyComputed:
     </section>
     <aside class="md:tw-col-span-3 tw-grid tw-gap-y-5 tw-shadow-md">
         <div class="tw-flex tw-flex-col tw-text-center">
-            <div class="tw-py-5 tw-mb-5 tw-text-3xl tw-leading-tight tw-text-white tw-bg-gradient-to-b tw-from-green-700 tw-to-green-600">
+            <div class="tw-py-5 tw-mb-5 tw-text-3xl tw-leading-tight tw-text-secondary">
                 Contact et RDV
             </div>
             <span class="tw-text-2xl tw-font-semibold">06.16.03.40.37</span>
         </div>
         <div>
-            <h1 class="tw-py-5 tw-mb-5 tw-text-3xl tw-leading-tight tw-text-white tw-bg-gradient-to-b tw-from-green-700 tw-to-green-600 tw-text-center">
+            <h1 class="tw-py-5 tw-mb-5 tw-text-3xl tw-leading-tight tw-text-secondary tw-text-center">
                 Psychologue, psychiatre, psychothérapeute ?
             </h1>
             <div class="tw-px-5 c-wysiwyg">
-                C'est quoi au juste un psy ? Distinguer les différents professionnels du soin et de l'accompagnement
-                psychologique est parfois difficile. Voici quelques repères essentiels avant de consulter.
+                <p>
+                    C'est quoi au juste un psy ? Distinguer les différents professionnels du soin et de l'accompagnement psychologique est parfois difficile. Voici quelques repères essentiels avant de consulter.
+                </p>
+
                 <h2>
                     Le psychologue
                 </h2>
-                <p>Le titre de psychologue est protégé par la loi. Il s'agit d'une profession réglementée qui exige une
-                    formation universitaire de haut niveau.</p>
+                <p>Le titre de psychologue est protégé par la loi. Il s'agit d'une profession réglementée qui exige une formation universitaire de haut niveau.</p>
                 <p>Le psychologue est un expert du fonctionnement psychique normal et pathologique.</p>
 
                 <h2>

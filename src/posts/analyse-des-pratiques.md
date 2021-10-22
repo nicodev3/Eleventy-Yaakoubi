@@ -1,6 +1,6 @@
 ---
 title: 'Analyse des pratiques professionnelles'
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+description: Laure Meslé-Yaakoubi, psychologue clinicienne. Bilans et évaluations de l'enfant, de l'adolescent et de l'adulte à Montpellier.
 ---
 
 Au sein d’une équipe de travail, il est souvent nécessaire pour le bien-être des professionnels et pour la qualité de leur travail, de se donner un moment pour échanger et réfléchir ensemble à la manière dont ils travaillent.

@@ -103,6 +103,10 @@
     bottom: -5px;
 }
 
+strong {
+    @apply tw-font-semibold;
+}
+
 table {
     @apply tw-table-fixed;
     @apply tw-border-collapse;
@@ -113,7 +117,7 @@ table {
 table th {
     @apply tw-uppercase;
     @apply tw-py-3;
-    @apply tw-bg-yellow-400;
+    @apply tw-bg-secondary;
     @apply tw-text-white;
     @apply tw-w-1/3;
 }

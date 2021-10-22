@@ -1,5 +1,5 @@
 ---
 title: 'Thérapie de couple'
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+description: La vie de couple n'est pas toujours un long fleuve tranquille. Se faire aider par un psychologue permet de préserver le couple dans les moments difficiles.
 ---
 

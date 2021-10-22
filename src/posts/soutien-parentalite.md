@@ -1,6 +1,6 @@
 ---
 title: 'Soutien parentalité'
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+description: Etre parent n'est pas toujours facile. Parfois, l'accompagnement d'un professionnel permet de retrouver un équilibre familial, pour le bien de l'enfant.
 ---
 ## La parentalité
 

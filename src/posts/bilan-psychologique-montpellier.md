@@ -1,6 +1,6 @@
 ---
 title: Bilan psychologique de l'enfant
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+description: Laure Meslé-Yaakoubi, psychologue clinicienne. Bilans et évaluations de l'enfant, de l'adolescent et de l'adulte à Montpellier.
 ---
 
 ## Bilan et évaluation de l'enfant

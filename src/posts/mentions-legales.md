@@ -1,6 +1,6 @@
 ---
 title: 'Mentions légales'
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+description: Mentions légales du site montpellier-psychologue.pro
 ---
 
 Conformément :
