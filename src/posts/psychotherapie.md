@@ -9,6 +9,7 @@ toutes les cultures, sous des formes très diverses.
 Néanmoins, de nos jours, certaines d'entre elles ont gagné leur statut dans le champ de la psychologie.
 
 On peut rencontrer un psychothérapeute à tout âge de la vie.
+
 Le [psychologue pour enfants](https://montpellier-psychologue.pro/psychologue-enfants-montpellier.html) n'utilisera pas
 les mêmes techniques qu'avec [l'adolescent](https://montpellier-psychologue.pro/psychologue-enfants-montpellier.html).
 

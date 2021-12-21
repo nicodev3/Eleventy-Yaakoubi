@@ -26,6 +26,10 @@
     @apply tw-list-disc;
 }
 
+.c-wysiwyg a {
+    @apply tw-underline tw-font-semibold tw-text-accent;
+}
+
 .c-nav.is-opened {
     display: block;
     position: absolute;

@@ -7,7 +7,7 @@ description: Tarif des consultations individuelles, de couple et bilans psycholo
 
 Le tarif des consultations varie en fonction de la prestation proposée. Pour les bilans, plusieurs consultations sont nécessaires.
 
-Afin de préserver la qualité de l'accueil et de permettre un plus grande souplesse dans l'offre de rendez-vous, toute séance non annulée 48 heures à l'avance est dûe. Merci de votre compréhension.
+Afin de préserver la qualité de l'accueil et de permettre une plus grande souplesse dans l'offre de rendez-vous, toute séance non annulée 48 heures à l'avance est due. Merci de votre compréhension.
 
 | Type de séance      | Tarif | Durée                                                        |
 | ------------------- |-------| ------------------------------------------------------------ |
