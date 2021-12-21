@@ -1,6 +1,6 @@
 ---
 title: Tarif psychologue
-description: Tarif des consultations de Laure Meslé-Yaakoubi, psychologue clinicienne à Montpellier.
+description: Tarif des consultations individuelles, de couple et bilans psychologiques de Laure Meslé-Yaakoubi, psychologue clinicienne à Montpellier.
 ---
 
 ## Tarif des consultations 2021

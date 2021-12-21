@@ -1,6 +1,6 @@
 ---
 title: 'Les psychothérapies' 
-description: Laure Meslé-Yaakoubi, psychologue et psychothérapeute à Montpellier. Enfants, adultes, adolescents.
+description: Psychothérapies enfants, adolescents, adultes, couples. Laure Meslé-Yaakoubi, psychologue et psychothérapeute à Montpellier. Enfants, adultes, adolescents.
 ---
  
 Il n'existe pas de forme unique de psychothérapie. Aussi anciennes que l'histoire de l'humanité, les elles existent dans

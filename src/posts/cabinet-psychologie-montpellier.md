@@ -1,6 +1,6 @@
 ---
 title: 'Cabinet de psychologie'
-description: Laure Meslé-Yaakoubi, psychologue clinicienne. 2 bis rue Pitot 34000 Montpellier 06.16.03.40.37.
+description: Cabinet de psychologie. Laure Meslé-Yaakoubi, psychologue clinicienne. 2 bis rue Pitot 34000 Montpellier 06.16.03.40.37.
 ---
 
 ## Le cabinet de psychologie de Montpellier
