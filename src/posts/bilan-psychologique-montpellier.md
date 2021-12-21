@@ -17,12 +17,12 @@ Selon la situation, nous pouvons réaliser les tests suivants :
 
 ## Fonctionnement cognitif
 
-- WISC 4 et 5(Test d'intelligence pour Enfants - 4ème et 5ème éditions)
+- WISC 4 et 5(Test d'intelligence pour Enfants - 4e et 5e éditions)
 - WPPSI-III (Echelle d'intelligence de Wechsler pour la période pré-scolaire et primaire - troisième édition)
 - Figure de Rey
 -Dame de Fay
 
-## Personnalité et fonctionnement psycho-affectif
+## Personnalité et fonctionnement psychoaffectif
 
 - Psychodiagnostic de Rorschach (Evaluation du mode de fonctionnement psychique individuel dans sa dynamique et/ou ses altérations)
 - T.A.T. (Thematic Aperception Test)

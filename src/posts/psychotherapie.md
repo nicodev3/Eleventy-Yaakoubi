@@ -10,7 +10,7 @@ Néanmoins, de nos jours, certaines d'entre elles ont gagné leur statut dans le
 
 On peut rencontrer un psychothérapeute à tout âge de la vie.
 Le [psychologue pour enfants](https://montpellier-psychologue.pro/psychologue-enfants-montpellier.html) n'utilisera pas
-les mêmes techniques qu'avec [l'adolescent](https://montpellier-psychologue.pro/psychologue-enfants-montpellier.html)
+les mêmes techniques qu'avec [l'adolescent](https://montpellier-psychologue.pro/psychologue-enfants-montpellier.html).
 
 De même, la [thérapie de couple](https://montpellier-psychologue.pro/therapie-couple-montpellier.html)  ou le soutien
 aux parents sont différentes.
@@ -22,7 +22,7 @@ psychothérapie d'inspiration psychanalytique diffère de la cure psychanalytiqu
 indications et la modification de son cadre.
 
 Si à l'époque de Freud la psychanalyse s'intéressait surtout aux pathologies névrotiques, les progrès effectués depuis
-lors montrent que les principaux éléments théoriques issues de cette dernière sont tout à fait applicables aux
+lors montrent que les principaux éléments théoriques issus de cette dernière sont tout à fait applicables aux
 problématiques modernes.
 
 Ainsi des notions telles que le transfert, l'importance donnée à la dimension inconsciente, l'importance du cadre, sont

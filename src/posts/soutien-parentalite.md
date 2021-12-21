@@ -10,7 +10,7 @@ Le soutien aux parents par un psychologue peut être nécessaire dans de nombreu
 
 - des événements externes à la famille venant troubler l'enfant
 - des événements internes à la dynamique familiale (jalousies, deuils familiaux, échec scolaire...)
-- des crise familiales (divorce, séparation...)
+- des crises familiales (divorce, séparation...)
 - des difficultés éducatives (parent isolé, problèmes liés à l'autorité...)
 
 ## La guidance parentale
