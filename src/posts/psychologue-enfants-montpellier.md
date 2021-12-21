@@ -24,4 +24,4 @@ Pour les adultes, la parole est souvent le moyen d’expression le plus simple, 
 
 Les thérapies d’enfants sont bien plus courtes que les thérapies d’adultes. L'alliance avec les parents est une dimension importante dans l'accompagnement psychologique de l'enfant qui ne peut être appréhendé que dans la globalité, avec ses propres ressources biologiques et psychiques, mais aussi dans son environnement social, familial et scolaire.
 
-Il est à noter que le psychologue pratique aussi des évaluations psychologiques, plus connues sous le nom de bilans psychologiques.
+Il est à noter que le psychologue pratique aussi des évaluations psychologiques, plus connues sous le nom de [bilans psychologiques](https://montpellier-psychologue.pro/bilan-psychologique-montpellier/).
