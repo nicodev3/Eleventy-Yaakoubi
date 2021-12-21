@@ -3,7 +3,7 @@ title: 'Le psychologue pour enfants'
 description: Le psychologue intervient auprès de l’enfant dans des situations de souffrance diverses. Certains signes doivent alerter les parents. Découvrez lesquels.
 ---
 
-Il n'existe pas à proprement parler de **psychologue pour enfant**. Chaque psychologue possède en revanche une ou des spécialités acquises au cours de sa formation et de son expérience. La psycholgie de l'enfant en fait partie. Quelles sont les difficultés rencontrées spécifiquement par les enfants et quel professionnel consulter ?
+Il n'existe pas à proprement parler de **psychologue pour enfant**. Chaque psychologue possède en revanche une ou des spécialités acquises au cours de sa formation et de son expérience. La psychologie de l'enfant en fait partie. Quelles sont les difficultés rencontrées spécifiquement par les enfants et quel professionnel consulter ?
 
 ## Les troubles psychologiques de l'enfant
 
@@ -17,7 +17,7 @@ En cas de difficultés chez l'enfant, il ne faut pas oublier d'effectuer un bila
 
 ## La spécificité du travail du psychologue avec l'enfant
 
-Une première séance se déroulera avec le ou les parents et l’enfant, où vous m’expliquerez les raisons de votre démarche. Je recevrai ensuite l'enfant seule, afin qu'il puisse s'exprimer, oralement ou à travers le jeu. Parfois une personne de la famille pourra être invitée à venir ponctuellement à une séance, selon la nécessité et l’accord de l’enfant.
+Une première séance se déroulera avec le ou les parents et l’enfant, où vous m’expliquerez les raisons de votre démarche. Je recevrai ensuite l'enfant seul, afin qu'il puisse s'exprimer, oralement ou à travers le jeu. Parfois une personne de la famille pourra être invitée à venir ponctuellement à une séance, selon la nécessité et l’accord de l’enfant.
 
 Pour les adultes, la parole est souvent le moyen d’expression le plus simple, les enfants peuvent être plus à l’aise en dessinant ou en jouant, c’est pourquoi lors d’une thérapie d’enfant nous pouvons utiliser différents supports, comme des jeux, des personnages, le dessin, etc.
 
