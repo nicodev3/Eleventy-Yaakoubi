@@ -14,8 +14,8 @@ On peut rencontrer un psychothérapeute à tout âge de la vie.
 Le [psychologue pour enfants](https://montpellier-psychologue.pro/psychologue-enfants-montpellier/) n'utilisera pas
 les mêmes techniques qu'avec [l'adolescent](https://montpellier-psychologue.pro/psychologue-enfants-montpellier/).
 
-De même, la [thérapie de couple](https://montpellier-psychologue.pro/therapie-couple-montpellier/)  ou le soutien
-aux parents sont différentes.
+De même, la [thérapie de couple](https://montpellier-psychologue.pro/therapie-couple-montpellier/)  ou le [soutien
+aux parents](https://montpellier-psychologue.pro/soutien-parentalite/) sont différentes.
 
 ## Les psychothérapies d'inspiration psychanalytique
 
