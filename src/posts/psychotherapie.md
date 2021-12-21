@@ -10,10 +10,10 @@ Néanmoins, de nos jours, certaines d'entre elles ont gagné leur statut dans le
 
 On peut rencontrer un psychothérapeute à tout âge de la vie.
 
-Le [psychologue pour enfants](https://montpellier-psychologue.pro/psychologue-enfants-montpellier.html) n'utilisera pas
-les mêmes techniques qu'avec [l'adolescent](https://montpellier-psychologue.pro/psychologue-enfants-montpellier.html).
+Le [psychologue pour enfants](https://montpellier-psychologue.pro/psychologue-enfants-montpellier/) n'utilisera pas
+les mêmes techniques qu'avec [l'adolescent](https://montpellier-psychologue.pro/psychologue-enfants-montpellier/).
 
-De même, la [thérapie de couple](https://montpellier-psychologue.pro/therapie-couple-montpellier.html)  ou le soutien
+De même, la [thérapie de couple](https://montpellier-psychologue.pro/therapie-couple-montpellier/)  ou le soutien
 aux parents sont différentes.
 
 ## Les psychothérapies d'inspiration psychanalytique
