@@ -1,5 +1,6 @@
 ---
 title: 'Le psychologue pour enfants'
+h1: Les enfants et le psychologue
 description: Le psychologue intervient auprès de l’enfant dans des situations de souffrance diverses. Certains signes doivent alerter les parents. Découvrez lesquels.
 ---
 

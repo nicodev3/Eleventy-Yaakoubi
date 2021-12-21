@@ -1,5 +1,6 @@
 ---
-title: 'Laure Yaakoubi psychologue'
+title: 'Laure Meslé-Yaakoubi psychologue'
+h1: Présentation de Laure Meslé-Yaakoubi
 description: Laure Meslé-Yaakoubi, psychologue clinicienne et psychothérapeute. Spécialisée en psychopathologie de l’enfant et de l’adolescent.
 ---
 

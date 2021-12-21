@@ -1,5 +1,6 @@
 ---
-title: 'Les psychothérapies' 
+title: 'Les psychothérapies'
+h1: Les différentes psychothérapies
 description: Psychothérapies enfants, adolescents, adultes, couples. Laure Meslé-Yaakoubi, psychologue et psychothérapeute à Montpellier. Enfants, adultes, adolescents.
 ---
  

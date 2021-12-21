@@ -1,5 +1,6 @@
 ---
-title: 'Psychologue adolescents'
+title: 'psychologue adolescents'
+h1: Le psychologue et l'adolescent
 description: La période de l’adolescence et ses troubles. Comment aider son enfant devenu adolescent à surmonter ses difficultés. Par Laure Meslé-Yaakoubi, psychologue.
 ---
 
